@@ -1,5 +1,7 @@
 # ai-for-se
 # Artificial Intelligence for Software Engineering
+[Sesiones de clase](https://drive.google.com/drive/folders/1KMs5ZJLgPz1HV49ENF4ZIv73K__xH_fU?usp=sharing)
+
 
 1. [Paper IA - SoftEng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 2. [Python](https://www.kaggle.com/learn/python)
