@@ -20,7 +20,7 @@
   - Machine Learning Intermediate (3 pts)
   - Intro a Deep Learning (3 pts)
   - Deep Learning (3 pts)
-  - Vision (3 pts)
+  - Computer Vision (3 pts)
 
 2. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
@@ -28,7 +28,7 @@
   - URL de okteto.com con modelo publicado (10 pts)
   - URL de frontend en Angular, React o Vue (Github Pages, heroku, firebase) 30 pts
 
-2. Proyecto  Resnet (40 pts), Fecha entrega: Dia de examen ordinario
+3. Proyecto Computer Vision (Resnet)  (40 pts), Fecha entrega: Dia de examen ordinario
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
   - URL de okteto.com con modelo publicado (10 pts)
   - URL de frontend en Angular, React o Vue (20 pts) NOTA:  Prediccion con Id (10 pts), prediccion con nombre (10 pts)
