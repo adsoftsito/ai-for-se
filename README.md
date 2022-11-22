@@ -1,6 +1,7 @@
 # ai-for-se
-# Artificial Intelligence for Software Engineering
 [Lista de clase](https://docs.google.com/spreadsheets/d/1NC7pYQ-kMOSH85gj5xbFjWwGKht-glgLHtNFcI23NTk/edit?usp=sharing)
+
+# Artificial Intelligence for Software Engineering
 [Sesiones de clase](https://drive.google.com/drive/folders/1KMs5ZJLgPz1HV49ENF4ZIv73K__xH_fU?usp=sharing)
 
 
