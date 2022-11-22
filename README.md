@@ -28,10 +28,10 @@
   - Proyecto en docker local (10 pts)
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
   - URL de okteto.com con modelo publicado (10 pts)
-  - URL de frontend en Angular, React o Vue (Github Pages, heroku, firebase) 30 pts
+  - Cliente python, ejemplo de llamada:  python linear_model.py 0.1 1.0 2.71 3.14    (10 pts)
 
 3. Proyecto Computer Vision (Resnet)  (40 pts), Fecha entrega: Dia de examen ordinario
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
   - URL de okteto.com con modelo publicado (10 pts)
-  - URL de frontend en Angular, React o Vue (20 pts) NOTA:  Prediccion con Id (10 pts), prediccion con nombre (10 pts)
+  - URL de Client Node, Flask, Django, Flutter (20 pts) NOTA:  Prediccion con Id (10 pts), prediccion con nombre (10 pts)
 
