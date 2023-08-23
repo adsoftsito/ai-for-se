@@ -2,9 +2,8 @@
 [Lista de clase](https://docs.google.com/spreadsheets/d/1NC7pYQ-kMOSH85gj5xbFjWwGKht-glgLHtNFcI23NTk/edit?usp=sharing)
 
 # Artificial Intelligence for Software Engineering
-[Sesiones de clase](https://drive.google.com/drive/folders/1KMs5ZJLgPz1HV49ENF4ZIv73K__xH_fU?usp=sharing)
 
-
+# Parcial 1
 1. [Paper IA - SoftEng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 2. [Python](https://www.kaggle.com/learn/python)
 3. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
@@ -13,22 +12,34 @@
 6. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
 7. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
 
-#Rubrica evaluacion de Ordinario
+# Entrenamiento en Flutter/Dart
 
-1. Certificados publicados en su site personal  (20 pts), Fecha entrega: 22-nov-2022
-  - Python (2 pts) 
-  - Pandas (3 pts)
-  - Intro a Machine Learning (3 pts)
-  - Machine Learning Intermediate (3 pts)
-  - Intro a Deep Learning (3 pts)
-  - Deep Learning (3 pts)
-  - Computer Vision (3 pts)
+1. Install, Test [Flutter y Dart](https://docs.flutter.dev/get-started/install)
+  - Opcional, realizar un Fork del [repo-flutter](https://github.com/adsoftsito/adsoft-flutter) para correr flutter desde Codespaces
+2. Dart [Getting started](https://dart.dev/tutorials/server/get-started)
+3. First [Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=es-419#0)
+
+#Rubrica evaluacion de Parcial 1
+
+1. Certificados publicados en su site personal, Fecha entrega: 22-sep-2022
+  - Python (4 pts) 
+  - Pandas (6 pts)
+  - Intro a Machine Learning (6 pts)
+  - Machine Learning Intermediate (6 pts)
+  - Intro a Deep Learning (6 pts)
+  - Deep Learning (6 pts)
+  - Computer Vision (6 pts)
+  - App Lab Flutter ( 60 pts )
+
+#Rubrica evaluacion de Parcial 2
 
 2. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
   - URL de okteto.com con modelo publicado (10 pts)
   - Cliente python, ejemplo de llamada:  python linear_model.py 0.1 1.0 2.71 3.14    (10 pts)
+
+#Rubrica evaluacion de Parcial 3
 
 3. Proyecto Computer Vision (Resnet)  (40 pts), Fecha entrega: Dia de examen ordinario
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
