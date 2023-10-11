@@ -35,8 +35,10 @@
 #Rubrica evaluacion de Parcial 2
 
 1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1OJNEZ4_p2yjNk01Q0TH5IVP7hQ4i26-HtyxxBuvsQwU/edit?usp=sharing)
+2. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
 
-2. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
+
+3. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
   - URL de okteto.com con modelo publicado (10 pts)
