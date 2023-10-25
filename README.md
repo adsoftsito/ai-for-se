@@ -38,6 +38,7 @@
 2. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
 3. Deploy [API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit#slide=id.g22f719ff0a8_3_9)   
 4. [Intro ML](https://docs.google.com/presentation/d/1BpR2VEiPj4-bXZLq2Qk314g7zhuRihzeDHPZyX6VQAw/edit#slide=id.g2906f4dc07f_0_73)
+5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
 
 3. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
