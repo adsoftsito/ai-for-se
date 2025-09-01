@@ -34,8 +34,8 @@
 
 #Rubrica evaluacion de Parcial 2
 
-1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1OJNEZ4_p2yjNk01Q0TH5IVP7hQ4i26-HtyxxBuvsQwU/edit?usp=sharing)
-2. Lab [Retrain Model](https://docs.google.com/presentation/d/1oYxPVss0qxpClCr3T4c2zTHW6oJe335S775ho7rz1TM/edit?usp=sharing)
+1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1wu41o1vAXL7zwsUbn_NVCFD4tUL5Lxxr/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+2. Lab [Retrain Model](https://docs.google.com/presentation/d/1w_Ewy0xflCkP5i8RyipYOGQ8uX4ApWG5/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 3. Deploy [API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit#slide=id.g22f719ff0a8_3_9)   
 4. [Intro ML](https://docs.google.com/presentation/d/1BpR2VEiPj4-bXZLq2Qk314g7zhuRihzeDHPZyX6VQAw/edit#slide=id.g2906f4dc07f_0_73)
 5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
