@@ -9,30 +9,16 @@
 3. [Pandas](https://www.kaggle.com/learn/pandas)
 4. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 5. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-6. [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
-7. [Tensorflow](https://github.com/adsoftsito/apis/blob/master/w15/itesm_apis_semana15.pdf)
-8. [Tensorflow Lab](https://colab.research.google.com/drive/1EVOq8gLq6wm_PWdj29qwmX6VjZEwwptf?usp=sharing)
 
-# Entrenamiento en Flutter/Dart
-
-1. Install, Test [Flutter y Dart](https://docs.flutter.dev/get-started/install)
-  - Opcional, realizar un Fork del [repo-flutter](https://github.com/adsoftsito/adsoft-flutter) para correr flutter desde Codespaces
-2. Dart [Getting started](https://dart.dev/tutorials/server/get-started)
-3. First [Flutter App](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1?hl=es-419#0)
-
-#Rubrica evaluacion de Parcial 1
+# Rubrica evaluacion de Parcial 1
 
 1. Certificados publicados en su site personal, Fecha entrega: 22-sep-2022
   - Python (4 pts) 
   - Pandas (6 pts)
   - Intro a Machine Learning (6 pts)
   - Machine Learning Intermediate (6 pts)
-  - Intro a Deep Learning (6 pts)
-  - Deep Learning (6 pts)
-  - Computer Vision (6 pts)
-  - App Lab Flutter ( 60 pts )
-
-#Rubrica evaluacion de Parcial 2
+  
+# Rubrica evaluacion de Parcial 2
 
 1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1wu41o1vAXL7zwsUbn_NVCFD4tUL5Lxxr/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 2. Lab [Retrain Model](https://docs.google.com/presentation/d/1w_Ewy0xflCkP5i8RyipYOGQ8uX4ApWG5/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
