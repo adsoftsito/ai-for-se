@@ -4,11 +4,16 @@
 # Artificial Intelligence for Software Engineering
 
 # Parcial 1
+
+# lecturas parcial 1
+## [ruta](https://drive.google.com/file/d/19nv-weXL5FDrGLwE0N6UybOJTXVaA7t4/view?usp=sharing)
+## [slides-day1 ](https://drive.google.com/file/d/1BM5l4umIBe5QV1VtKaDCEjWPMM78yWZr/view?usp=sharing)[video](https://www.youtube.com/live/uRzoVP63RiI)
+## [slides-day2 ](https://drive.google.com/file/d/1CcvTu7Q83WUmqYwyTwYjMt9atfctCCiJ/view?usp=sharing)[video](https://www.youtube.com/watch?v=V-eiE0M-mWM)
+## [slides-day3 ](https://drive.google.com/file/d/1YYj_bf1pwbK68Qn1F1XeSxFF1wweaIMR/view?usp=sharing)[video](https://www.youtube.com/live/0DhghJpWwVQ)
+
 1. [Paper IA - SoftEng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 2. [Python](https://www.kaggle.com/learn/python)
 3. [Pandas](https://www.kaggle.com/learn/pandas)
-4. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
-5. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 # Rubrica evaluacion de Parcial 1
 
@@ -19,6 +24,8 @@
   - Machine Learning Intermediate (6 pts)
   
 # Rubrica evaluacion de Parcial 2
+4. [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+5. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1wu41o1vAXL7zwsUbn_NVCFD4tUL5Lxxr/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 2. Lab [Retrain Model](https://docs.google.com/presentation/d/1w_Ewy0xflCkP5i8RyipYOGQ8uX4ApWG5/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
