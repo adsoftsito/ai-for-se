@@ -14,6 +14,7 @@
 1. [Paper IA - SoftEng](https://github.com/adsoftsito/laboweb/blob/main/CI_CD_IA.pdf)
 2. [Python](https://www.kaggle.com/learn/python)
 3. [Pandas](https://www.kaggle.com/learn/pandas)
+4. [Ciencia-datos](https://github.com/adsoftsito/ciencia-datos)
 
 # Rubrica evaluacion de Parcial 1
 
