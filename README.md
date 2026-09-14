@@ -25,8 +25,8 @@
   - Machine Learning Intermediate (6 pts)
   
 # Rubrica evaluacion de Parcial 2
-4. [Lecturas intro ML](https://docs.google.com/presentation/d/1qnWc82FNnwUNZa1PuR1YNx5gL8sAAN7P/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
-5. [Realizar Curso de Intro ML](https://www.kaggle.com/learn/intro-to-machine-learning)
+4. Lecturas[intro ML](https://docs.google.com/presentation/d/1qnWc82FNnwUNZa1PuR1YNx5gL8sAAN7P/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+5. Realizar Curso de [Intro ML](https://www.kaggle.com/learn/intro-to-machine-learning)
 6. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1wu41o1vAXL7zwsUbn_NVCFD4tUL5Lxxr/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
