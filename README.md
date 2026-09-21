@@ -27,7 +27,8 @@
 # Rubrica evaluacion de Parcial 2
 4. Lectura 1 [intro ML](https://docs.google.com/presentation/d/1qnWc82FNnwUNZa1PuR1YNx5gL8sAAN7P/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true) Lectura 2 [intro ML](https://docs.google.com/presentation/d/1sXA3PD4YXapFkr6DMR-oCHdafSkY6YI3/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 5. Realizar Curso de [Intro ML](https://www.kaggle.com/learn/intro-to-machine-learning)
-6. [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+6. Lectura 1 [Intermediate Machine Learning](https://docs.google.com/presentation/d/1-7nVdWUXXXqL3uvx2TQ-ZIeXl9OfBXWU/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+7. Realizar curso de [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 1. Deploy [Machine Learning Model](https://docs.google.com/presentation/d/1wu41o1vAXL7zwsUbn_NVCFD4tUL5Lxxr/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 2. Lab [Retrain Model](https://docs.google.com/presentation/d/1w_Ewy0xflCkP5i8RyipYOGQ8uX4ApWG5/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
