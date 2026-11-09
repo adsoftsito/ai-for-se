@@ -35,8 +35,12 @@
 3. Deploy [API](https://docs.google.com/presentation/d/1dwkslhao4AJfPmMFkTiC-pfJ7FwoWMzu6zw_i59sQGw/edit#slide=id.g22f719ff0a8_3_9)   
 4. [Intro ML](https://docs.google.com/presentation/d/1BpR2VEiPj4-bXZLq2Qk314g7zhuRihzeDHPZyX6VQAw/edit#slide=id.g2906f4dc07f_0_73)
 5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
-6. [Intro Deep Learning](https://docs.google.com/presentation/d/1yOQJb273CKZpEEq3H17o_jvYJVgWbWfA_EF7WdoWTYQ/edit?usp=sharing)
    
+
+#Rubrica evaluacion de Parcial 3
+
+1. [Intro Deep Learning](https://docs.google.com/presentation/d/1wAxf44iobL862_6skwMTIg7Ax2blNIcZ/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
 
 3. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
@@ -44,7 +48,6 @@
   - URL de okteto.com con modelo publicado (10 pts)
   - Cliente python, ejemplo de llamada:  python linear_model.py 0.1 1.0 2.71 3.14    (10 pts)
 
-#Rubrica evaluacion de Parcial 3
 
 3. Proyecto Computer Vision (Resnet)  (40 pts), Fecha entrega: Dia de examen ordinario
   - Proyecto en kubernetes local con 1 o mas nodos (10 pts)
