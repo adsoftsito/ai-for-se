@@ -37,7 +37,7 @@
 5. [Intermediate ML](https://docs.google.com/presentation/d/1XlzbuTwbWhUTQ1rbw897b-qJWYVken6A7osKCCwxt94/edit?usp=sharing)
    
 
-#Rubrica evaluacion de Parcial 3
+# Rubrica evaluacion de Parcial 3
 
 1. [Intro Deep Learning](https://docs.google.com/presentation/d/1wAxf44iobL862_6skwMTIg7Ax2blNIcZ/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
