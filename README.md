@@ -41,6 +41,8 @@
 
 1. [Intro Deep Learning](https://docs.google.com/presentation/d/1wAxf44iobL862_6skwMTIg7Ax2blNIcZ/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
 
+2. [Hopfield - shapes](https://docs.google.com/presentation/d/1J1wUTgsVwLb1EHtSudSi-G7kzGNYZ8SW/edit?usp=sharing&ouid=112454259737266877874&rtpof=true&sd=true)
+
 
 3. Proyecto de prediccion de regresion lineal (40 pts), Fecha entrega: 25-nov-2022
   - Proyecto en docker local (10 pts)
